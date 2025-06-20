@@ -50,8 +50,7 @@ The goal of this project is to explore how RL agents learn in complex visual env
 
 | Notebook                 | Description                                                                                              |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
-| `Doom.ipynb`             | ✅ Initial setup: Installing ViZDoom and creating a Gym wrapper. Demonstrates agent interaction in a basic environment. |
-| `Doom1.ipynb`            | 🔍 Extended experiments on alternate maps or training variations.                                         |
+| `Doom1.ipynb`             | ✅ Initial setup: Installing ViZDoom and creating a Gym wrapper. Demonstrates agent interaction in a basic environment. |
 | `DoomDefend.ipynb`       | 🛡️ Implements an agent learning the “Defend the Center” scenario — a classic ViZDoom test case.          |
 | `Doomdefendcenter.ipynb` | 🧠 Further experiments optimizing reward structures and state representations in "Defend the Center".     |
 | `doomdeadlycorrdior.ipynb` | ☠️ Trains agents in the challenging “Deadly Corridor” scenario using complex navigation and survival skills. |
@@ -118,7 +117,6 @@ jupyter notebook Doom.ipynb
 
 ```
 doom-rl/
-├── Doom.ipynb
 ├── Doom1.ipynb
 ├── DoomDefend.ipynb
 ├── Doomdefendcenter.ipynb
